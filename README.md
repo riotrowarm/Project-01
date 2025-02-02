@@ -2,7 +2,7 @@
 
 # Robert Armentrout
 
-# RiotRowarmen
+# riotrowarm
 
 Added an item and dialogue based on having that item or not.
 Added an Item that changes the course of the story, and can only be unlocked after a few choices. 
